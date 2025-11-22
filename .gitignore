@@ -4,11 +4,19 @@ __pycache__/
 venv/
 .env
 
-# Node
+# Node.js
 node_modules/
+frontend/node_modules/
 dist/
 .vite/
 
-# Database
+# Database & Temp files (VERY IMPORTANT!)
 chroma_db/
 temp/
+backend/chroma_db/
+backend/temp/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.log
