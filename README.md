@@ -4,9 +4,9 @@
 A beautiful, modern web application that lets you:
 - Upload PDF or DOCX files
 - Get instant, high-quality AI summaries
-- Chat with your document (ask any question — the AI answers only from your file)
+- Chat with your document (ask any question - the AI answers only from your file)
 
-Everything runs locally using **Ollama** — your documents never leave your computer!
+Everything runs locally using **Ollama** - your documents never leave your computer!
 
 ## Live Preview (Screenshots)
 <img src="https://raw.githubusercontent.com/ImeshaWA/rag-doc-summarizer/main/screenshot.png" alt="App Preview" width="100%"/>
@@ -18,7 +18,7 @@ Everything runs locally using **Ollama** — your documents never leave your com
 - Beautiful modern UI with animations, typing indicator, drag & drop
 - Supports PDF & DOCX
 - Works with free local models (Mistral, Llama3, Phi3, Gemma2, etc.)
-- 100% private & offline — no data sent to the cloud
+- 100% private & offline - no data sent to the cloud
 - Progressive (iterative) summarization technique
 
 ## Tech Stack
@@ -43,5 +43,5 @@ Everything runs locally using **Ollama** — your documents never leave your com
 
 ### 2. Download Required Models (one time only)
 
-ollama pull mistral          # or llama3, phi3, gemma2
+ollama pull mistral  
 ollama pull nomic-embed-text
