@@ -1,0 +1,29 @@
+# Web framework
+fastapi
+uvicorn
+
+# CORS middleware for FastAPI
+python-multipart
+
+# LangChain core and community modules
+langchain
+langchain-community
+langchain-ollama
+
+# PDF and DOCX loaders
+PyPDF2
+docx2txt
+
+# Web loader dependencies
+beautifulsoup4
+html5lib
+requests
+
+# Vector database
+chromadb
+
+# For Ollama embeddings and models
+ollama
+
+# Typing support (optional, for better type hints)
+typing-extensions
