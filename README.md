@@ -9,7 +9,7 @@ A beautiful, modern web application that lets you:
 Everything runs locally using **Ollama** — your documents never leave your computer!
 
 ## Live Preview (Screenshots)
-<img src="https://raw.githubusercontent.com/ImeshaWA/rag-doc-summarizer/main/screenshot.png" alt="App Preview" width="100%"/>
+<img src="https://raw.githubusercontent.com/ImeshaWA/rag-doc-summarizer/main/screenshot 2025.png" alt="App Preview" width="100%"/>
 
 *(Drag a screenshot of your app here later — GitHub will auto-upload it)*
 
